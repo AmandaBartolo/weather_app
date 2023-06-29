@@ -8,8 +8,8 @@ In this weather app you can change between ºC and Fº and see the features ment
 https://weather-app-tan-tau.vercel.app/
 
 # Technologies
-•	ReactJS with Hooks
-•	Material-UI
-•	Axios
-•	styled-components
-• API Weather API (https://www.weatherapi.com/)
+* ReactJS with Hooks
+*	Material-UI
+*	Axios
+*	styled-components
+* API Weather API (https://www.weatherapi.com/)
