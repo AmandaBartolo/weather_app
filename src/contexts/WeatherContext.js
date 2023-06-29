@@ -11,7 +11,7 @@ export const WeatherStorage = ({ children }) => {
   const hours = today.getHours();
   const day = today.getDay();
 
-  const urlApi = `http://api.weatherapi.com/v1/forecast.json?key=3ac020118ec64a688cf162424232606&q=new-york`;
+  const urlApi = `http://api.weatherapi.com/v1/forecast.json?key=0088a89746d54e01b43183015232906&q=new-york`;
 
   useEffect(() => {
     const getDataWeather = () => {
